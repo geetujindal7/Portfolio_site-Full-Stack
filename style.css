@@ -1,0 +1,63 @@
+.logo
+{
+    height: 100px;
+    float: left;
+    max-width: 100%;
+    vertical-align: top;
+    margin-left: 12px;
+    margin-top: 12px;
+}
+
+.font{
+  font-size: 30px;
+  text-align: right;
+  vertical-align: top;
+}
+
+.hh
+{
+  background-color: #999999;
+  height: 4px;
+}
+.image{
+  width: 100%;
+  height: auto;
+}
+.cont
+{
+  box-sizing: border-box;
+}
+
+.featured
+{
+float: left;
+font-size: 30px;
+margin-left: 12px;
+width: 100%;
+text-align: left;
+text-transform: uppercase;
+color: #560007;
+}
+
+.foot
+{
+  position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: #999999;
+   text-align: center;
+}
+.best
+{
+  max-width: 100%;
+  margin-bottom: 10px;
+  display: block;
+  height: auto;
+}
+
+.hreff
+{
+   font-size: 30px;
+   text-transform: uppercase;
+}
